@@ -64,7 +64,7 @@
     * [ベンダーへの問い合せのチケット駆動開発](https://tidd.zinrai.net/public/posts/vendor-tidd/)
     * [チケット駆動開発を使った人の受け入れ 前編](https://tidd.zinrai.net/public/posts/onbording-tidd-part1/)
     * [チケット駆動開発を使った人の受け入れ 後編](https://tidd.zinrai.net/public/posts/onbording-tidd-part2/)
-    * [「チケット駆動開発」を導入しての成果と課題](http://d.zinrai.info/public/okr-tidd-case/results-introducing-tidd/)
+    * [「チケット駆動開発」を導入しての成果と課題](https://tidd.zinrai.net/public/posts/results-introducing-tidd/)
 * [Redmine Advent Calendar 2020](https://adventar.org/calendars/5392)
     * [チケット駆動開発の運用にて開発した小さなツール達](https://tidd.zinrai.net/public/posts/tidd-tools/)
 * [さくらインターネット Advent Calendar 2020](https://qiita.com/advent-calendar/2020/sakura)
