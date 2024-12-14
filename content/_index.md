@@ -16,13 +16,11 @@
     * [プログラム紹介「Clos Network Topologyを運用するために、どのような取り組みをしていますか」](https://www.janog.gr.jp/meeting/janog49/nl-009/)
     * [JANOG49「Clos Network Topologyを運用するために、どのような取り組みをしていますか」レポート](https://knowledge.sakura.ad.jp/30527/)
 * [XP祭り2021](https://confengine.com/conferences/xp2021)
-    * [OKRとチケット駆動開発を組み合わせたチームでの取り組み](https://confengine.com/conferences/xp2021/proposal/15819/okr)
-    * [発表資料](https://speakerdeck.com/zinrai/okr-tidd-knowledge)
+    * [OKRとチケット駆動開発を組み合わせたチームでの取り組み](https://confengine.com/conferences/xp2021/proposal/15819/okr) [ [発表資料](https://speakerdeck.com/zinrai/okr-tidd-knowledge) ]
 * [第20回redmine.tokyo勉強会](https://redmine-tokyo.connpass.com/event/210332/)
     * [テキスト化した「チケット駆動開発がまわりはじめるまでの取り組み」の紹介](https://speakerdeck.com/zinrai/okr-tidd-case-intro)
 * [REDMINE JAPAN 2020](https://redmine-japan.org/2020/)
-    * [チケット駆動開発がまわりはじめるまでの取り組み](https://redmine-japan.org/2020/timetable/#a11)
-    * [発表資料](https://speakerdeck.com/zinrai/okr-tidd-case)
+    * [チケット駆動開発がまわりはじめるまでの取り組み](https://redmine-japan.org/2020/timetable/#a11) [ [発表資料](https://speakerdeck.com/zinrai/okr-tidd-case) ]
 * [Ansible Night in Tokyo 2019.07](https://ansible-users.connpass.com/event/135965/)
     * [Ansible 使うとき何考えてるの](https://speakerdeck.com/zinrai/ansible-role-reuse)
 * [JANOG BoF & LT Night #2](https://www.janog.gr.jp/meeting/bof-lt-night-2/)
