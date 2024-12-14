@@ -1,0 +1,4 @@
+baseURL = '/'
+relativeurls = true
+languageCode = 'ja'
+title = 'Hiroshi Umehara'
