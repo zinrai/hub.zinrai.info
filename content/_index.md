@@ -5,8 +5,8 @@
 * [Twitter](https://twitter.com/zinrai)
 * [LinkedIn](https://www.linkedin.com/in/hiroshiumehara/)
 * [Speaker Deck](https://speakerdeck.com/zinrai)
-* [Github](https://github.com/zinrai)
-* [技術ブログ](http://d.zinrai.net)
+* [GitHub](https://github.com/zinrai)
+* [技術ブログ](https://d.zinrai.net)
 * [チームビルディングに関連するアウトプット](https://tidd.zinrai.net)
 
 ## 対外発表
